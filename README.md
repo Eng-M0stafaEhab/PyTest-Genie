@@ -73,13 +73,6 @@ touch .env
 HF_TOKEN=your_huggingface_token_here
 ```
 
-> ⚠️ Never commit your `.env` file to GitHub. Make sure `.env` is listed in your `.gitignore`.
-
-**3. Add `.env` to `.gitignore`:**
-
-```bash
-echo ".env" >> .gitignore
-```
 
 ---
 
